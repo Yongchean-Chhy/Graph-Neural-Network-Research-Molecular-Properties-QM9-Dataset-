@@ -1,0 +1,10 @@
+GGNN /data/raw/*.sdf
+GGNN /data/processed/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
